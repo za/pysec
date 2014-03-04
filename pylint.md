@@ -36,6 +36,7 @@ W: 36, 4: __init__ method from base class 'my_class' is not called (super-init-n
 W:  7, 0: Unused import string (unused-import)
 ```
 
+```
 Report
 ======
 24 statements analysed.
